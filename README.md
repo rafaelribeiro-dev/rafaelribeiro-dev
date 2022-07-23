@@ -1,4 +1,4 @@
-### Olá, tudo bem? 👋
+### Hello, how are you? 👋
 
 
 - 🔭 I’m currently working on ...

@@ -4,7 +4,7 @@
 - 🚀 Quero migrar de carreira
 
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelribeiro-dev&github-readme-stats&count_private=true&show_icons=true&bg_color=-45,FF3D7B,FFD876&title_color=fff&text_color=fff&icon_color=fff&border_radius=16&hide_border=true"/> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelribeiro-dev&layout=compact&border_radius=16&title_color=D6326E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelribeiro-dev&github-readme-stats&count_private=true&show_icons=true&bg_color=-45,FF3D7B,FFD876&title_color=fff&text_color=fff&icon_color=fff&border_radius=16&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelribeiro-dev&layout=compact&border_radius=16&title_color=D6326E"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
